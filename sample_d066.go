@@ -17,7 +17,7 @@ func main() {
 		if n >= m {
 			fmt.Println(n - m)
 		} else {
-			fmt.Println("NO")
+			fmt.Println("No")
 		}
 	}
 }
