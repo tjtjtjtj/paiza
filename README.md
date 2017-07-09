@@ -7,3 +7,6 @@
 
 ## sample_d065_2.go
   - stringはbyte配列なので、文字列が数値の場合には、stringの配列で抽出可能
+
+## sample_d064.go
+  - 入力行の該当文字列を全て、置換
